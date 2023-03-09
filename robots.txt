@@ -1,0 +1,4 @@
+User-agent: *
+
+Disallow: /GUIDE-IN-TMS/
+
